@@ -1,0 +1,7 @@
+void main() {
+  int i = 5;
+  while (i < 15) {
+    print(i);
+    i++;
+  }
+}
